@@ -1,0 +1,27 @@
+-----Read Me-----
+This project containes following documents:
+1. Twenty Newsgroup- dataset file 
+2. Read Me.txt
+3. Report.doc
+5. Naives.py
+
+----Pre-requisites:
+1. python 3.6.3 interpreter
+2. Data set file 
+3. NLTK python Library
+4. Numpy
+
+----How to run the program: 
+Step 1: Extract the data on your computer.
+Step 2: Use the command prompt and navigate to the extracted folder.
+	cd C:\Desktop\Machine Learning\Hw2
+Step 3: Run the program. 
+	python Naives.py
+Step 4: Enter the location for the data set to be used .
+	C:\Desktop\Machine Learning\Hw2\Naives
+
+
+----Results: 
+1. Command promt will show the Overall accuracy of the model. 
+
+ 
